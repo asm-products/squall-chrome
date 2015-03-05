@@ -1,10 +1,10 @@
 # Textshots
 
-<a href="https://assembly.com/textshots/bounties"><img src="https://asm-badger.herokuapp.com/textshots/badges/tasks.svg" height="24px" alt="Open Tasks" /></a>
+<a href="https://assembly.com/squall/bounties"><img src="https://asm-badger.herokuapp.com/squall/badges/tasks.svg" height="24px" alt="Open Tasks" /></a>
 
 ## Hacking The Tweetstorm with Pictures of Text
 
-This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assembly.com/textshots](https://assembly.com/textshots).
+This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assembly.com/squall](https://assembly.com/squall).
 
 ### How Assembly Works
 
